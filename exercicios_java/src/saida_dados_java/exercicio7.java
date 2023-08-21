@@ -1,3 +1,4 @@
+package saida_dados_java;
 public class exercicio7 {
     public static void main (String[] args) throws Exception {
         String product1 = "Computer";

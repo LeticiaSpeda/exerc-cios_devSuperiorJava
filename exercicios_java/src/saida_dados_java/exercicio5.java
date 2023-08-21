@@ -1,3 +1,4 @@
+package saida_dados_java;
 public class exercicio5 {
     public static void main (String[] args) throws Exception {
         int a,b,B,h;

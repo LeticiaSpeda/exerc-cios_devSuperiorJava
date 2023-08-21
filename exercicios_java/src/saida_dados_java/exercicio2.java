@@ -1,3 +1,4 @@
+package saida_dados_java;
 public class exercicio2 {
      public class Pessoa {
         public static void main (String[] args) throws Exception {

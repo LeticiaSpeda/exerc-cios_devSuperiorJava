@@ -1,3 +1,4 @@
+package saida_dados_java;
 import java.util.Locale;
 
 public class exercicio1 {
