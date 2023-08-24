@@ -12,7 +12,7 @@ public class exercicio4 {
 
         char x;
         x = sc.next().charAt(0);
-        
+
         System.out.println("Voce digitou: " + x);
 
         sc.close();

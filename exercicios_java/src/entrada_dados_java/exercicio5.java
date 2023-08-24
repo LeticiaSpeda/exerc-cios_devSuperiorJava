@@ -14,7 +14,7 @@ public class exercicio5 {
         x = sc.next();
         y = sc.nextInt();
         z = sc.nextDouble();
-        
+
         System.out.println("Você digitou:");
 
         System.out.println(x);
