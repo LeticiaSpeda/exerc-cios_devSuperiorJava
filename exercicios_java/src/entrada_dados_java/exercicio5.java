@@ -1,5 +1,4 @@
 package entrada_dados_java;
-
 import java.util.Scanner;
 
 public class exercicio5 {
