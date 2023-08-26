@@ -11,7 +11,7 @@ public class exercicio1 {
         A = Math.sqrt(x);
         B = Math.sqrt(y);
         C = Math.sqrt(25.0);
-
+        
         System.out.println("Raiz quadrada de " + x + " = " + A);
         System.out.println("Raiz quadrada de " + y + " = " + B);
         System.out.println("Raiz quadrada de 25 = " + C);
