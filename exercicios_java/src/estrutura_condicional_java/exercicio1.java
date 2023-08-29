@@ -15,13 +15,15 @@ public class exercicio1 {
         System.out.println("Que horas são?");
         hora = sc.nextInt();
 
-        if (hora <= 12 || hora <= 19) {
+        if (hora <= 12) {
             System.out.println("Bom Dia " + nome);
         } else {
-            System.out.println("Boa Tarde " + nome);
-        } 
-            
-      
+            if (hora <= 18) {
+                System.out.println("Boa Tarde " + nome);
+            } else {
+                System.out.println("Boa noite " + nome);
+            }
+        }
 
         sc.close();
     }
